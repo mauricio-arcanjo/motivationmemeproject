@@ -14,11 +14,12 @@ p {
   text-align: center;
 }
 img {
-  width: 100%;
+  width: 70%;
+  margin-left: 15%;
   border: 5px solid white;
 }
 div {
-  width: 50%;
-  margin-left: 25%;
+  width: 70%;
+  margin-left: 15%;
   margin-top: 10px;
 }
